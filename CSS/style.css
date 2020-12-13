@@ -1,0 +1,26 @@
+/**** Color we will change it ****/
+
+
+.navbar-inverse .navbar-brand span,
+.footer h3,
+.about .container h1 span,
+.features .container .row span,
+.features .container .row h2,
+.footer .copyright span
+{
+  color: #173e18; 
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.option-box .color-option li,
+.gear-check,
+.carousel-indicators .active,
+.features .container .row span:hover
+{
+  background-color: #173e18; 
+}
+.option-box .color-option{
+  border: solid 3px #173e18;
+}
